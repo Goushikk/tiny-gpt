@@ -1,6 +1,6 @@
 # tiny-gpt
 
-Hey, thanks for choosing this project, I am Goushik Krishna and I am 14 
+Hey, thanks for choosing this project
 
 If you need to run this project, You need the following requirements
 
