@@ -9,6 +9,5 @@ If you need to run this project, You need the following requirements
 - Needed an OpenAI Package ( installed using your code terminal 'pip install openai' )
 - OpenAI Key ( can be bought at https://platform.openai.com/account/api-keys )
 
-Please support this project 
-
+Please support me
 UPI - goushik@fam
